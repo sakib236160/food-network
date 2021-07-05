@@ -1,0 +1,34 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.text-coloe{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+   
+}
+.half-width img{
+    width: 80%;
+}
+.orderfood-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: wheat;
+}
+.second-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
